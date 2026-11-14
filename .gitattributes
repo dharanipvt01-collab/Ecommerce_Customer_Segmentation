@@ -1,0 +1,4 @@
+models/product_matrix.pkl filter=lfs diff=lfs merge=lfs -text
+models/product_similarity.pkl filter=lfs diff=lfs merge=lfs -text
+outputs/product_similarity.csv filter=lfs diff=lfs merge=lfs -text
+outputs/product_similarity.npy filter=lfs diff=lfs merge=lfs -text
